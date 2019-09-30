@@ -4,9 +4,9 @@ import java.io.Serializable;
 
 public class Author implements Serializable{
 	
-   private static final long serialVersionUID = 1369322705727334695L;
-   private int authorId;
-   private String authorName;
+    private static final long serialVersionUID = 1369322705727334695L;
+    private int authorId;
+    private String authorName;
     private String authorPhoneNumber;
     
     public Author(){
